@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-labelledby="title">
+  <title id="title">BK Station</title>
+  <defs><linearGradient id="g" x1="70" y1="50" x2="440" y2="470" gradientUnits="userSpaceOnUse"><stop stop-color="#2ea4ed"/><stop offset=".55" stop-color="#766be9"/><stop offset="1" stop-color="#ed67a8"/></linearGradient></defs>
+  <rect width="512" height="512" rx="154" fill="url(#g)"/>
+  <circle cx="112" cy="106" r="25" fill="#fff" opacity=".45"/>
+  <path fill="#fff" d="M126 128h107c69 0 106 27 106 78 0 30-15 52-43 65 38 12 57 38 57 76 0 57-42 89-119 89H126V128zm91 121c29 0 43-10 43-31 0-20-14-30-43-30h-14v61h14zm7 126c34 0 51-12 51-35 0-22-17-33-51-33h-21v68h21z"/>
+  <path fill="#fff" d="M292 128h78l-72 142 83 166h-82l-75-164 68-144z" opacity=".98"/>
+</svg>
